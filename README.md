@@ -57,7 +57,7 @@ This project is based on [chromeai](https://github.com/lightning-joyce/chromeai)
 
 The original project is licensed under the MIT License. See the LICENSE file for more details.
 
-## More Chrome AI project
+## More Chrome AI Applications
  
 - [Generate DANK Replies with Chrome Built in AI](https://chromeai.org/blog/Generate-DANK-Replies-with-Chrome-Built-in-AI)
 - [Gmail Plugin for Managers](https://chromeai.org/blog/Gmail-Plugin-for-Managers)
